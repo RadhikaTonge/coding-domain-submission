@@ -1,0 +1,17 @@
+pwd
+ls
+ls -l
+ls -a
+ls -la
+cd
+cd ..
+cd ~
+cd /
+mkdir
+rmdir
+touch
+cat
+rm
+cp
+mv
+clear
